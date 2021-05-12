@@ -10278,6 +10278,22 @@ body {
   margin-bottom: 5rem;
 }
 
+.about-rectangle {
+  width: 1200px;
+  height: 352px;
+  margin: 0 0 80px;
+  padding: 0 60px 0 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px 8px rgba(0, 0, 0, 0.05);
+  background-color: #ffffff;
+}
+
+.about-square {
+  width: 745px;
+  height: 352px;
+  object-fit: contain;
+}
+
 .projects-section {
   padding: 10rem 0;
 }
