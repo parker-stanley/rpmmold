@@ -10281,11 +10281,8 @@ body {
 .about-rectangle {
   border-radius: 15px;
   box-shadow: 0 2px 16px 8px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
   background-color: #ffffff;
-}
-
-.about-square {
-  object-fit: contain;
 }
 
 .projects-section {
